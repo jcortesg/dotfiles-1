@@ -4,6 +4,8 @@
 - Install the included `DroidSansMono.ttf` font.
 - Install [iTerm2](https://www.iterm2.com).
 - Configure `DroidSansMono` as terminal font.
+- `cp gitignore_global ~/.gitignore_global`
+- `git config --global core.excludesfile ~/.gitignore_global`
 
 ## Vim install
 - Install macvim: `brew install macvim`.
