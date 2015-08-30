@@ -1,9 +1,9 @@
 # Dotfiles
 
 ## Terminal install
-- Install the included `DroidSansMono.ttf` font.
+- Install the included `Hack.ttf` font.
 - Install [iTerm2](https://www.iterm2.com).
-- Configure `DroidSansMono` as terminal font.
+- Configure `Hack` as terminal font.
 - `cp gitignore_global ~/.gitignore_global`
 - `git config --global core.excludesfile ~/.gitignore_global`
 
